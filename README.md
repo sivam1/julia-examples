@@ -2,11 +2,11 @@
 
 Install in Ubuntu
 
-1) Download 64-bit (I use Ubuntu 18.04) from Generic Linux Binaries for x86 in the link https://julialang.org/downloads/
-2) Unzip it
-3) Open the terminial ( Ctrl+Alt+T), Goto <julia-install-folder>/julia-1.0.0/bin
--Type chmod +x julia to change into executable mode. 
--Type julia and press Enter. Now you should see Julia prompt in the terminal. (Ctrl+D to exit)
+) Download 64-bit (I use Ubuntu 18.04) from Generic Linux Binaries for x86 in the link https://julialang.org/downloads/
+) Unzip it
+) Open the terminial ( Ctrl+Alt+T), Goto <julia-install-folder>/julia-1.0.0/bin
+)Type chmod +x julia to change into executable mode. 
+)Type julia and press Enter. Now you should see Julia prompt in the terminal. (Ctrl+D to exit)
   
 -Install the IDE (Atom)
 -Open the Atom IDE, click on Packates->Settings View->Install Packages
