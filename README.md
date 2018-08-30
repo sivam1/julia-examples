@@ -3,7 +3,7 @@ Julia Language
 
 Install in Ubuntu
 
--Download 64-bit (I use Ubuntu 18.04) from Generic Linux Binaries for x86 in the link https://julialang.org/downloads/
+-Download 64-bit (I use Ubuntu 18.04) from Generic Linux Binaries for x86 in the link https://julialang.org/downloads/ \n
 -Unzip it
 -Open the terminial ( Ctrl+Alt+T), Goto <julia-install-folder>/julia-1.0.0/bin
 -Type chmod +x julia to change into executable mode. 
