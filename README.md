@@ -1,4 +1,4 @@
-# julia-examples
+# My Julia-examples
 
 Install in Ubuntu
 
